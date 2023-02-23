@@ -1,0 +1,12 @@
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.exe.config
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.exe
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.pdb
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.AssemblyReference.cache
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.SuggestedBindingRedirects.cache
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\Test_Project.Form1.resources
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\Test_Project.fTest.resources
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.Properties.Resources.resources
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.GenerateResource.cache
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.CoreCompileInputs.cache
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.exe
+D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.pdb
