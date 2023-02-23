@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace Test_Project
 {
     public partial class Form1 : Form
     {
@@ -125,6 +125,12 @@ namespace WindowsFormsApp1
         private void FindButton_Click(object sender, EventArgs e)
         {
             listView1.Items.Clear();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            fTest ft = new fTest();
+            ft.Show();
         }
     }
 }

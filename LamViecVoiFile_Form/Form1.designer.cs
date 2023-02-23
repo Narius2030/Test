@@ -1,5 +1,5 @@
 ﻿
-namespace WindowsFormsApp1
+namespace Test_Project
 {
     partial class Form1
     {
@@ -49,6 +49,8 @@ namespace WindowsFormsApp1
             this.lyTextBox = new System.Windows.Forms.TextBox();
             this.hoaTextBox = new System.Windows.Forms.TextBox();
             this.FindButton = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tenTextBox
@@ -72,7 +74,7 @@ namespace WindowsFormsApp1
             this.tenLabel.AutoSize = true;
             this.tenLabel.Location = new System.Drawing.Point(64, 21);
             this.tenLabel.Name = "tenLabel";
-            this.tenLabel.Size = new System.Drawing.Size(45, 17);
+            this.tenLabel.Size = new System.Drawing.Size(44, 16);
             this.tenLabel.TabIndex = 3;
             this.tenLabel.Text = "Name";
             this.tenLabel.Click += new System.EventHandler(this.tenLabel_Click);
@@ -82,7 +84,7 @@ namespace WindowsFormsApp1
             this.mssvLabel.AutoSize = true;
             this.mssvLabel.Location = new System.Drawing.Point(64, 67);
             this.mssvLabel.Name = "mssvLabel";
-            this.mssvLabel.Size = new System.Drawing.Size(50, 17);
+            this.mssvLabel.Size = new System.Drawing.Size(46, 16);
             this.mssvLabel.TabIndex = 4;
             this.mssvLabel.Text = "Stu_ID";
             this.mssvLabel.Click += new System.EventHandler(this.mssvLabel_Click);
@@ -165,7 +167,7 @@ namespace WindowsFormsApp1
             this.toanLabel.AutoSize = true;
             this.toanLabel.Location = new System.Drawing.Point(64, 116);
             this.toanLabel.Name = "toanLabel";
-            this.toanLabel.Size = new System.Drawing.Size(39, 17);
+            this.toanLabel.Size = new System.Drawing.Size(36, 16);
             this.toanLabel.TabIndex = 11;
             this.toanLabel.Text = "Math";
             this.toanLabel.Click += new System.EventHandler(this.toanLabel_Click);
@@ -175,7 +177,7 @@ namespace WindowsFormsApp1
             this.lyLabel.AutoSize = true;
             this.lyLabel.Location = new System.Drawing.Point(64, 165);
             this.lyLabel.Name = "lyLabel";
-            this.lyLabel.Size = new System.Drawing.Size(49, 17);
+            this.lyLabel.Size = new System.Drawing.Size(47, 16);
             this.lyLabel.TabIndex = 12;
             this.lyLabel.Text = "Physic";
             this.lyLabel.Click += new System.EventHandler(this.lyLabel_Click);
@@ -185,7 +187,7 @@ namespace WindowsFormsApp1
             this.hoaLabel.AutoSize = true;
             this.hoaLabel.Location = new System.Drawing.Point(63, 211);
             this.hoaLabel.Name = "hoaLabel";
-            this.hoaLabel.Size = new System.Drawing.Size(70, 17);
+            this.hoaLabel.Size = new System.Drawing.Size(66, 16);
             this.hoaLabel.TabIndex = 13;
             this.hoaLabel.Text = "Chemistry";
             this.hoaLabel.Click += new System.EventHandler(this.hoaLabel_Click);
@@ -224,11 +226,32 @@ namespace WindowsFormsApp1
             this.FindButton.UseVisualStyleBackColor = true;
             this.FindButton.Click += new System.EventHandler(this.FindButton_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 18;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(836, 304);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(86, 35);
+            this.button2.TabIndex = 19;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1037, 382);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.FindButton);
             this.Controls.Add(this.hoaTextBox);
             this.Controls.Add(this.lyTextBox);
@@ -272,6 +295,8 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.ColumnHeader lyCol;
         private System.Windows.Forms.ColumnHeader hoaCol;
         private System.Windows.Forms.Button FindButton;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
