@@ -10,3 +10,16 @@ D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamV
 D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.CoreCompileInputs.cache
 D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.exe
 D:\Programming\.NET\Workspace\TestGitHub\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.pdb
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.exe.config
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.exe
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\bin\Debug\LamViecVoiFile_Form.pdb
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.AssemblyReference.cache
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\Test_Project.fmain.resources
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\Project_01.Form1.resources
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\Test_Project.fTest.resources
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.Properties.Resources.resources
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.GenerateResource.cache
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.exe
+C:\Users\dtptr\OneDrive\Máy tính\github\Test\LamViecVoiFile_Form\obj\Debug\LamViecVoiFile_Form.pdb
